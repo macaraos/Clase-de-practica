@@ -1,0 +1,44 @@
+body{
+	font-family: 'Anonymous Pro', monospace;
+	color: #686979;
+}
+
+#p1,#p2,#p3,#p4,#p5,#p6{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100%;
+	position: absolute;
+	color: #fff;
+}
+
+#p1{
+	background-image: url(img/chocolate.jpg);
+}
+
+#p2{
+	background-image: url(img/ex-machine.jpg);
+	top: 270px;
+}
+
+#p3{
+	background-image: url(img/millenium.jpg);
+	left: 190px;
+}
+
+#p4{
+	background-image: url(img/castillo-ambulante.jpg);
+	left: 370px;
+}
+
+#p5{
+	background-image: url(img/no-country-for-old-man.jpg);
+	left: 190px;
+	top: 270px;
+}
+
+#p6{
+	background-image: url(img/el-viaje-de-chihiro.jpg);
+	left: 370px;
+	top: 270px;
+}
